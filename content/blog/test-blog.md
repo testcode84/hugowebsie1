@@ -1,5 +1,5 @@
 ---
 title: test blog
-date: 21/11/2022
+date: 2022-11-24T18:30:00.000Z
 ---
 Hello A Test Blog
